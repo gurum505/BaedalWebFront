@@ -31,4 +31,4 @@ local에서 보는법
 ---'npm start' or 'yarn start'<br>
 ---localhost:3000<br>
 
-[배포까지](nervers-jang-2ab38b.netlify.com)
+[~~배포까지~~](nervers-jang-2ab38b.netlify.com)
