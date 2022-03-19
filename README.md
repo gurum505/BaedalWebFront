@@ -28,8 +28,7 @@ mother project : Baemin-front-clone<br>
 # :floppy_disk:사용 방법
 
 local에서 보는법
----'npm start' or 'yarn start'
----localhost:3000
+---'npm start' or 'yarn start'<br>
+---localhost:3000<br>
 
-배포까지
-nervers-jang-2ab38b.netlify.com
+[배포까지](nervers-jang-2ab38b.netlify.com)
