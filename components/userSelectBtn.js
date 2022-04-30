@@ -43,9 +43,6 @@ class userSelectBtn extends Component {
                 <tr>
                     <td> 라면</td><td>72</td><td>9.5</td>18.5<td>385</td><td>986</td>
                 </tr>
-                <tr>
-                    <td> 김치찌개</td><td>22</td><td>39</td><td>39</td><td>356</td><td>88.4</td>
-                </tr>
                     <td> </td><td></td><td></td><td></td><td></td><td>출처: https:www.fatsecret.kr</td>
             </table>
         </TouchableOpacity>;
